@@ -1,4 +1,4 @@
-# YouTube Content Enhancement System
+# YouTube Comment Scraper
 
 ## Overview
 
