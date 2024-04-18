@@ -10,7 +10,7 @@ def load_comments(filepath):
     return " ".join(comments)
 
 def generate_text_with_jurassic(prompt, api_key):
-    url = "YOUR API KEY"# Ensure this is correct
+    url = "YOUR URL"# Ensure this is correct
     
     headers = {
         "Authorization": f"Bearer {api_key}",
