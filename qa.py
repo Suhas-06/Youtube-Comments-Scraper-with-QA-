@@ -39,8 +39,8 @@ def generate_text_with_jurassic(prompt, api_key):
         return "An error occurred while processing the API response."
 
 def main():
-    # Specify the path to your comments file
-    file_path = "ADD FILE PATH"
+    # Specify the path to your sorted comments file
+    file_path = "path to //sorted.txt"
 
     # Load comments from the file
     comments = load_comments(file_path)
