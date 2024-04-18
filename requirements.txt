@@ -1,0 +1,7 @@
+requests==2.26.0
+transformers==4.13.0
+torch==1.10.0
+scipy==1.7.3
+spacy==3.3.1
+google-api-python-client==2.31.0
+Flask==2.1.0
