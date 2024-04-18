@@ -4,11 +4,11 @@
 
 This project integrates advanced NLP and AI to enhance user engagement with YouTube content. Key components include:
 
-- **`scrapper.py`**: Scrapes YouTube for video IDs based on criteria.
+- **`Scraper.py`**: Scrapes YouTube for video IDs based on user query.
   
-- **`relc.py`**: Processes video comments using BERT and SpaCy to extract relevant responses.
+- **`Relevant_comment.py`**: Processes video comments using BERT and SpaCy to extract relevant responses.
 
-- **`qa1.py`**: Interacts with the AI21 language model to provide context-aware responses.
+- **`qa.py`**: Interacts with the AI21 language model to provide context-aware responses.
 
 - **`ui.py`**: A Flask web app that integrates all components and dynamically updates the UI with relevant images from the Pexels API.
 
