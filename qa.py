@@ -40,7 +40,7 @@ def generate_text_with_jurassic(prompt, api_key):
 
 def main():
     # Specify the path to your sorted comments file
-    file_path = "path to //sorted.txt"
+    file_path = "PATH TO \\sorted.txt"
 
     # Load comments from the file
     comments = load_comments(file_path)
