@@ -46,17 +46,17 @@ Before running the project, ensure you have the following:
 1. **Run the Flask Application**:
    ```bash
    python ui.py
-  Your Flask application will start running, and you should see an output similar to:
-
-  ```plaintext
-  * Serving Flask app 'ui'
-  * Debug mode: on
-  WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
-  * Running on http://127.0.0.1:5000
-  Press CTRL+C to quit
-  * Restarting with stat
-  * Debugger is active!
-  * Debugger PIN: 325-090-574
-  ```
+   ```
+   Your Flask application will start running, and you should see an output similar to:
+   ```plaintext
+   * Serving Flask app 'ui'
+   * Debug mode: on
+   WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+   * Running on http://127.0.0.1:5000
+   Press CTRL+C to quit
+   * Restarting with stat
+   * Debugger is active!
+   * Debugger PIN: 325-090-574
+   ```
 2. **Access the Application**:
 Open a web browser and navigate to `http://127.0.0.1:5000` to use the application locally.
